@@ -1,0 +1,3322 @@
+[
+  {
+    "id": "522e32f0-b8cf-4c95-8507-63f4083a21f5",
+    "data": [
+      {
+        "text": "I want to book a table for ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "alias": "adults",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " adult",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "683bd045-3f1a-4f7c-855f-0f244448ae50",
+    "data": [
+      {
+        "text": "i want to book",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "856467de-7080-4279-9592-cea6b3934b28",
+    "data": [
+      {
+        "text": "i want to make a booking",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "57cb906a-c3b9-4b95-93f8-39889c36fcb3",
+    "data": [
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Red Lobster",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "adults",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " persons",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "be0dc1f9-3cfa-4dd3-85f8-23a7fcbb08a1",
+    "data": [
+      {
+        "text": "Rebello",
+        "alias": "lastName",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "0193582098",
+        "alias": "mobile",
+        "meta": "@sys.phone-number",
+        "userDefined": false
+      },
+      {
+        "text": " book a table for ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "adults",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " adults and ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "children",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " children ",
+        "userDefined": false
+      },
+      {
+        "text": "at 7pm",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ee4aa011-e57c-4873-8feb-8b4bbbb4866f",
+    "data": [
+      {
+        "text": "my mobile is ",
+        "userDefined": false
+      },
+      {
+        "text": "0945159810",
+        "alias": "mobile",
+        "meta": "@sys.phone-number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "028ef372-0054-4350-a538-072af91275ea",
+    "data": [
+      {
+        "text": "wang",
+        "alias": "lastName",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "863b3e2b-4498-4793-99cc-c7d3cdc2fc1a",
+    "data": [
+      {
+        "text": "can you make reservations at ",
+        "userDefined": false
+      },
+      {
+        "text": "The Cheesecake Factory",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "next Friday night",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "ff2c14bb-2bd4-4891-93c1-31c9e4375ecc",
+    "data": [
+      {
+        "text": "//",
+        "userDefined": false
+      },
+      {
+        "text": "Nguyen",
+        "alias": "lastName",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": ",     ",
+        "userDefined": false
+      },
+      {
+        "text": "0416533779",
+        "alias": "mobile",
+        "meta": "@sys.phone-number",
+        "userDefined": false
+      },
+      {
+        "text": " book a table for ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "adults",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " adults and ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "children",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " children at ",
+        "userDefined": false
+      },
+      {
+        "text": "18",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "65bfde3e-7939-4252-9fd5-7fac423fdaab",
+    "data": [
+      {
+        "text": "On 27 April 2019",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": ", book a table for ",
+        "userDefined": false
+      },
+      {
+        "text": "9",
+        "alias": "adults",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " adults ",
+        "userDefined": false
+      },
+      {
+        "text": "9",
+        "alias": "children",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " children at ",
+        "userDefined": false
+      },
+      {
+        "text": "19",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9d7b3022-6f2b-45e1-95dd-e9ffb9dada43",
+    "data": [
+      {
+        "text": "book a table",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e91529a7-eb8c-4cda-bf87-c28bde6f2f63",
+    "data": [
+      {
+        "text": "Lee",
+        "alias": "lastName",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "91899629-b878-43a6-a39d-c5f844c9bfd5",
+    "data": [
+      {
+        "text": "tran",
+        "alias": "lastName",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " is my last name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "776af6c6-e544-4392-aef9-daaf80c35ffe",
+    "data": [
+      {
+        "text": "book a table for ",
+        "userDefined": false
+      },
+      {
+        "text": "two",
+        "alias": "adults",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " people at ",
+        "userDefined": false
+      },
+      {
+        "text": "Delmonico\u0027s",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "7 pm",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": true
+      },
+      {
+        "text": " we\u0027ll need a ",
+        "userDefined": false
+      },
+      {
+        "text": "parking lot",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " too",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c87705e4-8c6f-43d0-86f2-0aa67c779647",
+    "data": [
+      {
+        "text": "can you ",
+        "userDefined": false
+      },
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " me a table",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c983a01b-c277-4401-9b36-b4dfb92b1a1b",
+    "data": [
+      {
+        "text": "book me a table at ",
+        "userDefined": false
+      },
+      {
+        "text": "Barcelona",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e3126e60-cae8-4057-91b6-fc256dd5699c",
+    "data": [
+      {
+        "text": "reserve",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " a table at ",
+        "userDefined": false
+      },
+      {
+        "text": "restaurant",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " with ",
+        "userDefined": false
+      },
+      {
+        "text": "free WiFi",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7e8f10b1-ef8c-44e5-97dc-e5ae2363274c",
+    "data": [
+      {
+        "text": "Ly",
+        "alias": "lastName",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " is my last name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "24b97205-4c0d-4923-9d6b-68e5cae97c32",
+    "data": [
+      {
+        "text": "my last name is ",
+        "userDefined": false
+      },
+      {
+        "text": "Nguyen",
+        "alias": "lastName",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6eeb7d55-f608-4c7f-9d79-6a7ba2716aa4",
+    "data": [
+      {
+        "text": "nguyen",
+        "alias": "lastName",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " is my last name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "7fb2f6ec-a840-4d63-a224-a8295ca3993b",
+    "data": [
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "restaurant",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "Friday night",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "620a2bdf-4d78-4289-a92d-fc00e1ae8598",
+    "data": [
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Red Lobster",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "Saturday",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d86288e7-b1c4-417d-9635-8423cb75b0ee",
+    "data": [
+      {
+        "text": "can you ",
+        "userDefined": false
+      },
+      {
+        "text": "reserve",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " for me a table at a ",
+        "userDefined": false
+      },
+      {
+        "text": "restaurant",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "two",
+        "alias": "adults",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " adults",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9967daff-e9ba-441b-8357-80272c733694",
+    "data": [
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Red Lobster",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "867d08f7-635d-434f-a3fd-85d64ba4b36d",
+    "data": [
+      {
+        "text": "i want to book a table ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "adults",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " adults ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "children",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " children ",
+        "userDefined": false
+      },
+      {
+        "text": "at 7pm",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2ebbc829-bb7d-414d-aa60-dbc624778cde",
+    "data": [
+      {
+        "text": "Nguyen",
+        "alias": "lastName",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027s mobile number is ",
+        "userDefined": false
+      },
+      {
+        "text": "0329282014",
+        "alias": "mobile",
+        "meta": "@sys.phone-number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "34bcaa83-6136-40bd-8dac-1adddb2a57ec",
+    "data": [
+      {
+        "text": "tran",
+        "alias": "lastName",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "0124483783",
+        "alias": "mobile",
+        "meta": "@sys.phone-number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "62140179-fcdc-4e2a-af84-8516514f197a",
+    "data": [
+      {
+        "text": "i want to book a table for ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "adults",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " adults and ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "children",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " children ",
+        "userDefined": false
+      },
+      {
+        "text": "at 18",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " last name ",
+        "userDefined": false
+      },
+      {
+        "text": "Nguyen",
+        "alias": "lastName",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4a36a1a8-6c95-47a8-a32d-30e9dcee589d",
+    "data": [
+      {
+        "text": "My last name is ",
+        "userDefined": false
+      },
+      {
+        "text": "xiao",
+        "alias": "lastName",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c5b4b094-f2cb-4a13-bfea-3a39d4258afb",
+    "data": [
+      {
+        "text": "my last name is ",
+        "userDefined": false
+      },
+      {
+        "text": "Jones",
+        "alias": "lastName",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3ff6aff0-081e-425a-b926-68d958e78bc8",
+    "data": [
+      {
+        "text": "Jin",
+        "alias": "lastName",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a5172afc-6eb7-4888-a47d-45b79f47c6f8",
+    "data": [
+      {
+        "text": "Tran",
+        "alias": "lastName",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " books a table ",
+        "userDefined": false
+      },
+      {
+        "text": "at 13",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "571524c8-70fc-45b9-9a9d-5420208bdf45",
+    "data": [
+      {
+        "text": "i want to book a table for ",
+        "userDefined": false
+      },
+      {
+        "text": "7",
+        "alias": "adults",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " people and ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "children",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " children ",
+        "userDefined": false
+      },
+      {
+        "text": "on 27/04/2019",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "at 8pm",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "16bf580c-caf9-4e80-adad-4749eda38570",
+    "data": [
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Pizza Hut",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "37a5fece-dee7-485b-b7c1-b58b13f71c04",
+    "data": [
+      {
+        "text": "book a table for ",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "alias": "adults",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9be52f84-34ec-462b-ab2d-e8b8443ecb10",
+    "data": [
+      {
+        "text": "reserve",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " a table for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b5789c27-6582-493d-9379-65955729f711",
+    "data": [
+      {
+        "text": "find a table at a ",
+        "userDefined": false
+      },
+      {
+        "text": "sushi place",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " around ",
+        "userDefined": false
+      },
+      {
+        "text": "Castro Street",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "8 PM",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "50d5d72d-d821-43cb-906d-325c57216bea",
+    "data": [
+      {
+        "text": "my last name is ",
+        "userDefined": false
+      },
+      {
+        "text": "Smith",
+        "alias": "lastName",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "284bb764-9517-411c-b839-c75e08d92cdb",
+    "data": [
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Italian",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "restaurant",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "900 seventh avenue",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "da71107d-91fd-469a-8fbd-03b0e345e557",
+    "data": [
+      {
+        "text": "make a reservation at a romantic ",
+        "userDefined": false
+      },
+      {
+        "text": "Italian",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "restaurant",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tonight",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "7 PM",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b939e753-b1d2-4efe-bedb-3f902e4d7b5e",
+    "data": [
+      {
+        "text": "can you ",
+        "userDefined": false
+      },
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " me a ",
+        "userDefined": false
+      },
+      {
+        "text": "restaurant",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " with ",
+        "userDefined": false
+      },
+      {
+        "text": "parking",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8be5aedc-86ec-4034-90f7-cb1d41f9ff21",
+    "data": [
+      {
+        "text": "reserve",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Bar Jules",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "62e308f0-f7cb-4720-bef4-d1ece3a611d7",
+    "data": [
+      {
+        "text": "//",
+        "userDefined": false
+      },
+      {
+        "text": "Nguyen",
+        "alias": "lastName",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "0416533779",
+        "alias": "mobile",
+        "meta": "@sys.phone-number",
+        "userDefined": false
+      },
+      {
+        "text": " book a table for ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "adults",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " adults and ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "children",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " children ",
+        "userDefined": false
+      },
+      {
+        "text": "at 18",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fd512d6a-0d77-4324-9b04-ce732c17a834",
+    "data": [
+      {
+        "text": "//",
+        "userDefined": false
+      },
+      {
+        "text": "Nguyen",
+        "alias": "lastName",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "0416533779",
+        "alias": "mobile",
+        "meta": "@sys.phone-number",
+        "userDefined": true
+      },
+      {
+        "text": " i want to book a table for ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "adults",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " adults and ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "children",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " children at ",
+        "userDefined": false
+      },
+      {
+        "text": "18",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "697093e5-07ec-4be3-a151-8ceef18c1370",
+    "data": [
+      {
+        "text": "reserve a table for ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "adults",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " guest ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "f3bbde00-ed5b-4922-b58a-ebfacf4e10fb",
+    "data": [
+      {
+        "text": "can you make a reservation at ",
+        "userDefined": false
+      },
+      {
+        "text": "Nobu",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Las Vegas",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "9 PM",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "alias": "adults",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " people",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "28de2206-6315-4280-9a7b-0a884bd92a65",
+    "data": [
+      {
+        "text": "Ly",
+        "alias": "lastName",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8a3f338e-53ce-4f68-b1b5-6864558e5f82",
+    "data": [
+      {
+        "text": "Williams",
+        "alias": "lastName",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " wants to book a table for ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "children",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f9b58f8c-9684-485e-a85c-5d963be5007f",
+    "data": [
+      {
+        "text": "At 9",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      },
+      {
+        "text": " book a table for ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "adults",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " adults ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "children",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " children",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "de3c88f9-8365-4c00-a07f-84956376687a",
+    "data": [
+      {
+        "text": "I want to book a table for ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "adults",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "7",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e0be3087-42d8-404b-9c17-f270bd0ae0e0",
+    "data": [
+      {
+        "text": "My last name is ",
+        "userDefined": false
+      },
+      {
+        "text": "Ly",
+        "alias": "lastName",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "901914a0-80cf-471b-99dd-52c4c94a950f",
+    "data": [
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Le Bernardin",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "restaurant",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "155 w 51st",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "Thursday",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e6b6c189-b51d-483c-8caa-c4cc7b44cbe9",
+    "data": [
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Muse",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "the 4th of June",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "6 p m",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6ad9aff0-a991-45f2-9a19-e2163ee034b6",
+    "data": [
+      {
+        "text": "can I ",
+        "userDefined": false
+      },
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "dinner",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "9 pm",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "alias": "adults",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " people",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9f54df13-3838-4747-a9f0-9ec2c266c2d8",
+    "data": [
+      {
+        "text": "Vo",
+        "alias": "lastName",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " books table ",
+        "userDefined": false
+      },
+      {
+        "text": "at 9am",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7aa29471-5209-472e-bfcf-99f830eb12c9",
+    "data": [
+      {
+        "text": "i want to book a ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "adults",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " adults and ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "children",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " children table ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "at 8pm",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " by",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "97a8153b-c1d7-4dc9-a9e0-3b0f75b98f48",
+    "data": [
+      {
+        "text": "can you ",
+        "userDefined": false
+      },
+      {
+        "text": "reserve",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " a table for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a90bab36-71e3-4b85-9b38-d7824674eab4",
+    "data": [
+      {
+        "text": "I want to book a table for ",
+        "userDefined": false
+      },
+      {
+        "text": "5 children",
+        "alias": "children",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2fa05cae-a8e2-4f21-9080-eef5bbae229d",
+    "data": [
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "restaurant",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "Friday night",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "adults",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " people",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5c16ee1e-7b96-4f58-a4d5-32446d0dd707",
+    "data": [
+      {
+        "text": "Xiang",
+        "alias": "lastName",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " is my last name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "54151de4-021c-4077-aa54-8377a6cb086f",
+    "data": [
+      {
+        "text": "I want to book a table for ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "adults",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " adults and ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "children",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " children ",
+        "userDefined": false
+      },
+      {
+        "text": "at 19",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " under the name of ",
+        "userDefined": false
+      },
+      {
+        "text": "Nguyen",
+        "alias": "lastName",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "42008a38-9ded-4288-8840-fb3e5a30e89b",
+    "data": [
+      {
+        "text": "i want to book a table for ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "adults",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " adults and ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "children",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " children ",
+        "userDefined": false
+      },
+      {
+        "text": "at 7pm",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6f3c35cc-7520-4f2b-a4df-6f593181df95",
+    "data": [
+      {
+        "text": "can I make a dining reservation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ed1a923f-f6bf-42cd-aa4b-ce4219b692cc",
+    "data": [
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "restaurant",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "closest",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " to my location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "91d704f3-a4c9-4a27-853c-0ea06e3b38c6",
+    "data": [
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Italian",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "restaurant",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "46294647-0707-48c7-8fac-9327fea9ee18",
+    "data": [
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " a table in ",
+        "userDefined": false
+      },
+      {
+        "text": "Eleven Madison park",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "27178356-a8ee-4820-8ae4-887de302d5d3",
+    "data": [
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "restaurant",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " with ",
+        "userDefined": false
+      },
+      {
+        "text": "highest rating",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b2f68332-7e8a-4727-b1f0-9d7deb8df249",
+    "data": [
+      {
+        "text": "could you ",
+        "userDefined": false
+      },
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "restaurants",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Manhattan",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6848a52b-96bd-4b4a-99a6-1b5d155036af",
+    "data": [
+      {
+        "text": "reserve",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " a table in ",
+        "userDefined": false
+      },
+      {
+        "text": "outback steak house",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "restaurant",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e2c790fa-e68d-40e7-869e-dd8a0a61ad6a",
+    "data": [
+      {
+        "text": "find a table at a ",
+        "userDefined": false
+      },
+      {
+        "text": "sushi place",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " around ",
+        "userDefined": false
+      },
+      {
+        "text": "Castro street",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "8 pm",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9d25d527-0eb6-4b5c-8002-b07df2331442",
+    "data": [
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Osteria Mozza",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Los Angeles",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1ad795b0-8c24-48b3-8e63-252b8bf3a91a",
+    "data": [
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Aspen Grille",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "May 10",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "9 p m",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5c5c7e87-76d3-408e-8e4e-e8fd6a5c4d3f",
+    "data": [
+      {
+        "text": "Can I book a table for ",
+        "userDefined": false
+      },
+      {
+        "text": "2 adults",
+        "alias": "adults",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "3 children",
+        "alias": "children",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "25e79bcd-b2c8-4dda-9daf-97e304df3167",
+    "data": [
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "restaurant",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "closest",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "to",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " my location ",
+        "userDefined": false
+      },
+      {
+        "text": "rated",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " with ",
+        "userDefined": false
+      },
+      {
+        "text": "5 stars",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5a552225-c0d8-4c92-b608-2035b68e56db",
+    "data": [
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Le Bernardin",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "restaurant",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "tonight",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4ee8c935-1284-47a8-bbaf-f51ec56aa9cb",
+    "data": [
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "restaurant",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "New York",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dd3d5f42-ec50-4b01-a6d7-f5b6583678ba",
+    "data": [
+      {
+        "text": "I\u0027d like to ",
+        "userDefined": false
+      },
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Senza",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "restaurant",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Broadway st",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "97b2d466-b2f3-47e1-bdb5-29701acb9efe",
+    "data": [
+      {
+        "text": "book table of ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "alias": "adults",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow evening",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "19:30",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "067ddbaa-4f1e-40e1-b97a-230b2e24bc9d",
+    "data": [
+      {
+        "text": "can you book a table at ",
+        "userDefined": false
+      },
+      {
+        "text": "Pizza",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8b996448-d635-4603-9f33-36e4f228a4c9",
+    "data": [
+      {
+        "text": "I would like to ",
+        "userDefined": false
+      },
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Senza",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "restaurant",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Broadway st",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1a2c0c46-fe2a-488d-bffa-58083a77e90f",
+    "data": [
+      {
+        "text": "make a reservation in ",
+        "userDefined": false
+      },
+      {
+        "text": "French Laundry",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "af318729-8463-4514-b662-cd63561a58b3",
+    "data": [
+      {
+        "text": "can you ",
+        "userDefined": false
+      },
+      {
+        "text": "reserve",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " a table at a ",
+        "userDefined": false
+      },
+      {
+        "text": "restaurant",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "07b149cd-39fa-449e-857d-64f23291ea24",
+    "data": [
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Red Lobster",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "7 pm",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e2f37fde-8dd8-4870-a57a-e68ec0cd0823",
+    "data": [
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "restaurant",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "adults",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " people",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6d33aa3a-8705-4a75-a775-e2ff985587a1",
+    "data": [
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "cafe",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "adults",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " persons",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d20d6c5e-9f99-46f5-b39a-c97294e585e8",
+    "data": [
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "restaurant",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "nearby",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "39b756ec-e935-44e2-98e8-87e1e6fd0d3b",
+    "data": [
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "restaurant",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "6 pm",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "11d9bdcc-8594-420b-abb7-3f5c50615733",
+    "data": [
+      {
+        "text": "can you make a reservation at ",
+        "userDefined": false
+      },
+      {
+        "text": "The Cheesecake Factory",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tonight",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c649a16e-dd34-488e-b5e0-0f37e11dfebe",
+    "data": [
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "restaurant",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "6 pm",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "adults",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " people",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "62c98fbe-808a-48f9-951b-08e165091aa2",
+    "data": [
+      {
+        "text": "I need to ",
+        "userDefined": false
+      },
+      {
+        "text": "reserve",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " a table for ",
+        "userDefined": false
+      },
+      {
+        "text": "this Friday",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1e7a41bc-30cd-4bfa-8066-2a02d19a1af0",
+    "data": [
+      {
+        "text": "book a table for ",
+        "userDefined": false
+      },
+      {
+        "text": "two",
+        "alias": "adults",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " people at ",
+        "userDefined": false
+      },
+      {
+        "text": "Delmonico\u0027s",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "7 PM",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "d4ef6189-7ce2-44ab-89ff-78495708898b",
+    "data": [
+      {
+        "text": "how can I make a dining reservation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a19237ea-0787-43e6-8eaf-7f30a6b9c0e7",
+    "data": [
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Indian",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "restaurant",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e4aa64d6-c54f-4c8c-9b0a-7d1ece62aa59",
+    "data": [
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Aspen Grille",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "three",
+        "alias": "adults",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " persons",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4d881e36-9ea1-4b6f-aac1-dc5c6685e4d4",
+    "data": [
+      {
+        "text": "reserve",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "restaurants",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d6a6fc58-0f80-4292-8ea8-22bd1000c964",
+    "data": [
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "restaurant",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "84f9c905-81f6-4732-b79c-cf810c08d753",
+    "data": [
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "French Laundry",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "seven",
+        "alias": "adults",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " people",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4eddfe78-4be0-4c5c-ad7d-015bd301033d",
+    "data": [
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " an ",
+        "userDefined": false
+      },
+      {
+        "text": "Italian",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "restaurant",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " near ",
+        "userDefined": false
+      },
+      {
+        "text": "Soho",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "adults",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " people for ",
+        "userDefined": false
+      },
+      {
+        "text": "Friday night",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "27eded68-2ccd-4c63-a150-c66bbfcecf82",
+    "data": [
+      {
+        "text": "can you make a ",
+        "userDefined": false
+      },
+      {
+        "text": "reserve",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "Four Seasons",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Washington DC",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bf7be916-74d3-4adb-84d4-55a31d0bc82f",
+    "data": [
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Aspen Grille",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "five",
+        "alias": "adults",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " persons",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "add3a34f-3305-4570-bd20-7607e56612a2",
+    "data": [
+      {
+        "text": "book",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Le Bernardin",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "restaurant",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "155 w 51st",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "  for ",
+        "userDefined": false
+      },
+      {
+        "text": "6 pm",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "five",
+        "alias": "adults",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " people",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

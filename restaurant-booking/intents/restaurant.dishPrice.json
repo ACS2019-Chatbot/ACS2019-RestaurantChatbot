@@ -1,0 +1,42 @@
+{
+  "id": "cf70dfd6-05dd-4bd7-ba37-e820b542b27e",
+  "name": "restaurant.dishPrice",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "188eaaf4-4ff7-42ee-9235-94922c09bdfb",
+          "required": true,
+          "dataType": "@dish",
+          "name": "dish",
+          "value": "$dish",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Which dish do you want to see the price? (Please refer to the menu for list of available dishes)"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

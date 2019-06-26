@@ -1,0 +1,51 @@
+{
+  "description": "Help users make restaurant reservations with your app. This agent lets them ask to get a table at their favorite place or try somewhere new. They can search by asking for a specific food type and when they\u0027ve found somewhere they\u0027d like to eat, they just say what time and how many people are coming.",
+  "language": "en",
+  "shortDescription": "Find, create and manage reservations for restaurants",
+  "examples": "User: Book a table for two people at Delmonico\u0027s for 7 PM. We\u0027ll need a parking lot too.\nUser: Can you make a reservation at The Cheesecake Factory tonight?\nUser: Find a table at a sushi place around Castro Street for 8 PM tomorrow.\nUser: Can you make a reservation at Nobu in Las Vegas for 9 PM for 2 people?",
+  "activeAssistantAgents": [
+    "smalltalk-domain-on",
+    "smalltalk-fulfillment-on"
+  ],
+  "disableInteractionLogs": false,
+  "disableStackdriverLogs": true,
+  "googleAssistant": {
+    "googleAssistantCompatible": false,
+    "project": "restaurant-booking-7e726",
+    "welcomeIntentSignInRequired": false,
+    "startIntents": [],
+    "systemIntents": [],
+    "endIntentIds": [
+      "63d598e2-054f-4929-89ab-e332b1c1190e",
+      "6f2c2e71-a900-4c65-a987-2796552fc16a",
+      "c8a3436f-c53b-41f9-9ab8-a61231c8ddba",
+      "cf70dfd6-05dd-4bd7-ba37-e820b542b27e",
+      "d8f7c8f4-f6f8-4b01-919a-b49b778e4fa8"
+    ],
+    "oAuthLinking": {
+      "required": false,
+      "grantType": "AUTH_CODE_GRANT"
+    },
+    "voiceType": "MALE_1",
+    "capabilities": [],
+    "protocolVersion": "V2",
+    "isDeviceAgent": false
+  },
+  "defaultTimezone": "Australia/Sydney",
+  "webhook": {
+    "url": "https://us-central1-restaurant-booking-7e726.cloudfunctions.net/dialogflowFirebaseFulfillment",
+    "available": true,
+    "useForDomains": false,
+    "cloudFunctionsEnabled": true,
+    "cloudFunctionsInitialized": true
+  },
+  "isPrivate": true,
+  "customClassifierMode": "use.instead",
+  "mlMinConfidence": 0.3,
+  "supportedLanguages": [],
+  "onePlatformApiVersion": "v1legacy",
+  "analyzeQueryTextSentiment": false,
+  "enabledKnowledgeBaseNames": [],
+  "knowledgeServiceConfidenceAdjustment": -0.4,
+  "dialogBuilderMode": false
+}

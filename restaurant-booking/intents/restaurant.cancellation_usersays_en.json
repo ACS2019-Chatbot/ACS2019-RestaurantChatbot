@@ -1,0 +1,506 @@
+[
+  {
+    "id": "df5b3a79-663a-4bdc-9b5e-9b4dd3565a2b",
+    "data": [
+      {
+        "text": "Nguyen218",
+        "alias": "eventId",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " cancel my booking",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "137d2b51-6dee-4fdf-ab0d-14beb1554642",
+    "data": [
+      {
+        "text": "I want to cancel my booking ",
+        "userDefined": false
+      },
+      {
+        "text": "at 6pm",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": ". My booking ID is ",
+        "userDefined": false
+      },
+      {
+        "text": "Nguyen779",
+        "alias": "eventId",
+        "meta": "@sys.any",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1c23944e-3b55-4d13-9186-8e808ee1fb18",
+    "data": [
+      {
+        "text": "Tracy779",
+        "alias": "eventId",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " want to cancel booking ",
+        "userDefined": false
+      },
+      {
+        "text": "at 19",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6493853c-de01-43b3-b6a0-ba4597ccb1d7",
+    "data": [
+      {
+        "text": "Opera390",
+        "alias": "eventId",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "79de475c-3f55-4824-9a6c-3cc4b99241f7",
+    "data": [
+      {
+        "text": "Snowy015",
+        "alias": "eventId",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1e0358b6-fc9d-4b5a-be4c-b630b5a85374",
+    "data": [
+      {
+        "text": "Booking Id ",
+        "userDefined": false
+      },
+      {
+        "text": "Coean037",
+        "alias": "eventId",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1089416c-9484-4e55-be09-08c9bd2eb25a",
+    "data": [
+      {
+        "text": "at 18",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "on tomorrow",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1d3bc908-8c05-4fb2-9461-1d007b758247",
+    "data": [
+      {
+        "text": "at 18pm",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "66d103f1-4a35-4544-861a-b132aff25466",
+    "data": [
+      {
+        "text": "Nguyen779",
+        "alias": "eventId",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f6315c25-aa43-462d-ac7c-265cc4b8ad27",
+    "data": [
+      {
+        "text": "vgtjk36qorvjl68u6d7kk9ttqg",
+        "alias": "eventId",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ba664cf0-8d0e-45b6-8c27-d2c2943bc40d",
+    "data": [
+      {
+        "text": "I want to cancel booking ",
+        "userDefined": false
+      },
+      {
+        "text": "9cobbscigm7ilth78np83p8e08",
+        "alias": "eventId",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": ". Please keep this for updating or cancellation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5b5a7a49-ead9-4aec-a325-48a308cee951",
+    "data": [
+      {
+        "text": "May I cancel my booking?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "af7a4e40-b70b-41ce-89be-ebb538d8740c",
+    "data": [
+      {
+        "text": "cancel ",
+        "userDefined": false
+      },
+      {
+        "text": "nguyen0416533779",
+        "alias": "eventId",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c0185b83-68df-4b98-ba69-961dac8a64e1",
+    "data": [
+      {
+        "text": "I want to cancel ",
+        "userDefined": false
+      },
+      {
+        "text": "vgtjk36qorvjl68u6d7kk9ttqg",
+        "alias": "eventId",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1092badc-506d-412a-90db-96a3d47e0d0d",
+    "data": [
+      {
+        "text": "booking ID cancellation ",
+        "userDefined": false
+      },
+      {
+        "text": "56jh7erl8lkqsq7apjkuu1n0uo",
+        "alias": "eventId",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6f969cb6-1f05-4f35-8a05-66dbff1a8dd6",
+    "data": [
+      {
+        "text": "i want to ",
+        "userDefined": false
+      },
+      {
+        "text": "cancel",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "booking",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ID ",
+        "userDefined": false
+      },
+      {
+        "text": "mb6emboq209kuo3746ogdcnn5g",
+        "alias": "eventId",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "877fabe1-2606-495a-9b77-faddae33e25c",
+    "data": [
+      {
+        "text": "I want to cancel ",
+        "userDefined": false
+      },
+      {
+        "text": "mvg581oiflc7adcie52u5fandc",
+        "alias": "eventId",
+        "meta": "@sys.any",
+        "userDefined": false
+      },
+      {
+        "text": " booking",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3e7d9c34-4dcf-48b1-8611-0127bb9e9edf",
+    "data": [
+      {
+        "text": "i want to cancel ",
+        "userDefined": false
+      },
+      {
+        "text": "anna0129483783",
+        "alias": "eventId",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "52ca98c2-74ac-417b-9281-c940321c66df",
+    "data": [
+      {
+        "text": "hr9d47bk901ernlce9vr8bb50g",
+        "alias": "eventId",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7822ae3b-0da7-44b5-bbae-f80bdd2532c9",
+    "data": [
+      {
+        "text": "I want to cancel reservation with ID ",
+        "userDefined": false
+      },
+      {
+        "text": "rroo38rehkoppj93tgrlted958",
+        "alias": "eventId",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0fe95032-d9ae-41dc-ae4f-0041046606c4",
+    "data": [
+      {
+        "text": "I would like to cancel my reservation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "deb59353-ed71-4a33-9694-7ba136e46149",
+    "data": [
+      {
+        "text": "tjcv6g09c3mvoid08ugp3u88hc",
+        "alias": "eventId",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d8d9218d-d2bc-4e4a-bc0d-683ceb44bb19",
+    "data": [
+      {
+        "text": "4hqocu1ltoa29ndhhqel5cfl3o",
+        "alias": "eventId",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4657136a-bc44-44ca-8193-5c6fc4a10589",
+    "data": [
+      {
+        "text": "I want to cancel my booking",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9798d4d5-7ad9-4c41-ab66-5acd883ca40b",
+    "data": [
+      {
+        "text": "4gsjbs1lorv121kmutyuseotpk",
+        "alias": "eventId",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "14a26483-904a-47d1-afb3-9770e59a2cd6",
+    "data": [
+      {
+        "text": "ft96e33aeqit4lbl8mik2qds94",
+        "alias": "eventId",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " booking cancellation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5612a727-80e6-4a0f-8862-ce05ee3e1e88",
+    "data": [
+      {
+        "text": "I want to cancel my booking with the ID of ",
+        "userDefined": false
+      },
+      {
+        "text": "nthmlm4lbj293d71harn397g1o",
+        "alias": "eventId",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  }
+]

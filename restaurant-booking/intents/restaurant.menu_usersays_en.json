@@ -1,0 +1,78 @@
+[
+  {
+    "id": "0d6d7344-1480-4eb1-a846-cee806173697",
+    "data": [
+      {
+        "text": "Can you send me the ",
+        "userDefined": false
+      },
+      {
+        "text": "menu",
+        "alias": "menu",
+        "meta": "@menu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "70bf9188-088a-4647-b9a7-81f51e1f772d",
+    "data": [
+      {
+        "text": "Could you please send me the ",
+        "userDefined": false
+      },
+      {
+        "text": "menu",
+        "alias": "menu",
+        "meta": "@menu",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6fb70640-12a7-44b5-bf64-959e65b22a74",
+    "data": [
+      {
+        "text": "Can I see the ",
+        "userDefined": false
+      },
+      {
+        "text": "menu",
+        "alias": "menu",
+        "meta": "@menu",
+        "userDefined": true
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2f1d951b-44b7-4367-b384-7d195fdaccf3",
+    "data": [
+      {
+        "text": "I want to see the ",
+        "userDefined": false
+      },
+      {
+        "text": "menu",
+        "alias": "menu",
+        "meta": "@menu",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

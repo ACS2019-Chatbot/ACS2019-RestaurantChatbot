@@ -1,0 +1,9 @@
+{
+  "id": "0ff1b323-236d-422c-b6e5-c5537fc26c2e",
+  "name": "venue-eating-out-type",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

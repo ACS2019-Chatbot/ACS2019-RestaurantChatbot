@@ -1,0 +1,149 @@
+{
+  "id": "63d598e2-054f-4929-89ab-e332b1c1190e",
+  "name": "restaurant.book",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "restaurant.book",
+      "affectedContexts": [
+        {
+          "name": "book-restaurant",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "d579a059-6af5-42f0-b6e1-a55682772fe3",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "adults",
+          "value": "$adults",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "For how many adults?"
+            },
+            {
+              "lang": "en",
+              "value": "How many adults do you want to book for?"
+            },
+            {
+              "lang": "en",
+              "value": "How many adults are coming?"
+            },
+            {
+              "lang": "en",
+              "value": "How many adults do you want to be reserved?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "6bc58fc5-0b2a-4ae2-94f6-51a0fa5107b2",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "children",
+          "value": "$children",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "For how many children?"
+            },
+            {
+              "lang": "en",
+              "value": "How many children are coming?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "d98d930a-5fe1-47ab-aef1-0c949cd7fb00",
+          "required": true,
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "For which date?"
+            },
+            {
+              "lang": "en",
+              "value": "Which date do you want to book your reservation?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "498e4e87-91af-4d8f-a8de-513f5b8c05b7",
+          "required": true,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "At which time?"
+            },
+            {
+              "lang": "en",
+              "value": "What time do you want to book?"
+            },
+            {
+              "lang": "en",
+              "value": "What time do you want your reservation to be booked?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "56a753c4-5d39-4269-9fa4-82a0e06e72d0",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "lastName",
+          "value": "$lastName",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What is your last name?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "f2f6cc20-674f-41d1-8986-5ea64742dd01",
+          "required": true,
+          "dataType": "@sys.phone-number",
+          "name": "mobile",
+          "value": "$mobile",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What is your mobile number?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

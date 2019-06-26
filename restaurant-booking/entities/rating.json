@@ -1,0 +1,9 @@
+{
+  "id": "3d5eee39-a103-49b0-8e1d-f5243ce18d84",
+  "name": "rating",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

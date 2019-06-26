@@ -1,0 +1,112 @@
+{
+  "id": "d8f7c8f4-f6f8-4b01-919a-b49b778e4fa8",
+  "name": "restaurant.update",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "727d457b-552f-4929-b5ee-c08399b5261b",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "eventId",
+          "value": "$eventId",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What is your booking Id?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "d7f64be5-1019-4a9c-b0eb-6302a7126200",
+          "required": true,
+          "dataType": "@sys.date",
+          "name": "bookingDate",
+          "value": "$bookingDate",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What is your booking date"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "55b9bd0b-ea78-4842-964d-e5b8d34b5f68",
+          "required": true,
+          "dataType": "@sys.time",
+          "name": "bookingTime",
+          "value": "$bookingTime",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What is your booking time?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "de2a292d-198e-4207-ba90-aaf693f109a6",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "adults",
+          "value": "$adults",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "How many adults would you like to change to?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "a10eac3f-8840-4352-93c2-a10097c09576",
+          "required": true,
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What is your new booking date?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "b138506a-ee28-4a50-b2f9-232a8d95fac1",
+          "required": true,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What is your new booking time?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

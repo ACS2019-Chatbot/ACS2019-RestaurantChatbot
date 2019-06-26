@@ -1,0 +1,100 @@
+[
+  {
+    "id": "70f41121-cf84-42aa-80aa-e4f82651edd4",
+    "data": [
+      {
+        "text": "How much is ",
+        "userDefined": false
+      },
+      {
+        "text": "risotto",
+        "alias": "dish",
+        "meta": "@dish",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "30e72ae2-c826-406d-88af-e53eda003f7c",
+    "data": [
+      {
+        "text": "What is the price of ",
+        "userDefined": false
+      },
+      {
+        "text": "Margherita",
+        "alias": "dish",
+        "meta": "@dish",
+        "userDefined": true
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "01a6cc91-e858-4f92-b6ce-a312940714c8",
+    "data": [
+      {
+        "text": "Can I see the price of ",
+        "userDefined": false
+      },
+      {
+        "text": "bbq chicken",
+        "alias": "dish",
+        "meta": "@dish",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d2402ff0-8eb5-4eaa-bb32-54d0eb2f0856",
+    "data": [
+      {
+        "text": "how much does ",
+        "userDefined": false
+      },
+      {
+        "text": "spirits",
+        "alias": "dish",
+        "meta": "@dish",
+        "userDefined": false
+      },
+      {
+        "text": " cost",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b4cf9b17-4ec0-45a3-8aed-0347aba0de36",
+    "data": [
+      {
+        "text": "I want to see the price of ",
+        "userDefined": false
+      },
+      {
+        "text": "ham and mushroom",
+        "alias": "dish",
+        "meta": "@dish",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

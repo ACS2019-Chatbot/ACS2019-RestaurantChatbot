@@ -1,0 +1,70 @@
+{
+  "id": "c8a3436f-c53b-41f9-9ab8-a61231c8ddba",
+  "name": "restaurant.cancellation",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "fb752cce-2ad2-4ab9-9d59-1759a11b6ac3",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "eventId",
+          "value": "$eventId",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What is your booking ID?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "0f02583c-8aca-44ff-a7c4-66aa3143db79",
+          "required": true,
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What is your booking date?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "b7258418-2618-4d47-b041-e92b8bc13734",
+          "required": true,
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What is your booking time?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

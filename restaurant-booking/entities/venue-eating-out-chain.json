@@ -1,0 +1,9 @@
+{
+  "id": "30c859fe-5aa7-46c4-8f62-cd66d7fa815f",
+  "name": "venue-eating-out-chain",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

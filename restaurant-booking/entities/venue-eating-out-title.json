@@ -1,0 +1,9 @@
+{
+  "id": "ecbc3a9e-1615-439a-94c4-31b4d2ba8084",
+  "name": "venue-eating-out-title",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

@@ -1,0 +1,36 @@
+{
+  "id": "6f2c2e71-a900-4c65-a987-2796552fc16a",
+  "name": "restaurant.menu",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "92f38d4c-cb8f-4d9e-88d6-b02451b5baeb",
+          "required": false,
+          "dataType": "@menu",
+          "name": "menu",
+          "value": "$menu",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}
